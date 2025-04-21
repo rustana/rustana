@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tatyana Ruskevich</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="1000" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustana&label=Profile%20views&color=0e75b6&style=flat" alt="rustana" /> </p>
